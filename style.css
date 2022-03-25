@@ -49,8 +49,8 @@ body {
 
 .content {
     display: block;
-    width: 75%;
-    margin: auto;
+    width: 50%;
+    margin: 0 auto;
 
 }
 
@@ -93,3 +93,7 @@ body {
     color: #708371;
 }
 
+#img_webpage_3_25 {
+    width: 25%;
+    /* height: 25%; */
+}
